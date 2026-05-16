@@ -32,7 +32,7 @@ This dashboard helps businesses:
 
 | **Tool** | **Purpose** |
 |------|---------|
-| **Power BI / Tableau / Excel** | Dashboard Creation |
+| **Looker Studio / Goggle Sheets ** | Dashboard Creation |
 | **Excel / CSV Dataset** | Data Source |
 | **Data Cleaning Techniques** | Data Preparation |
 | **Charts & KPIs** | Visualization |
