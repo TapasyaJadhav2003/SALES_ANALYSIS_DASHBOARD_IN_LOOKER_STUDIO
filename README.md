@@ -2,8 +2,6 @@
 
 > **Turning raw sales data into meaningful business insights through interactive visualization and analytics.**
 
-
-
 # 🚀 **Project Overview**
 
 The **Sales Analysis Dashboard** is an interactive **Business Intelligence Project** designed to analyze and monitor overall **sales performance, profit trends, customer behavior, and regional growth**.
@@ -14,7 +12,6 @@ This dashboard helps businesses:
 - ✅ Monitor **profit growth opportunities**
 - ✅ Understand **customer purchasing behavior**
 - ✅ Analyze **regional sales performance**
-
 
 
 # 🎯 **Project Objectives**
@@ -32,7 +29,7 @@ This dashboard helps businesses:
 
 | **Tool** | **Purpose** |
 |------|---------|
-| **Looker Studio / Goggle Sheets ** | Dashboard Creation |
+| **Looker Studio / Goggle Sheets** | Dashboard Creation |
 | **Excel / CSV Dataset** | Data Source |
 | **Data Cleaning Techniques** | Data Preparation |
 | **Charts & KPIs** | Visualization |
@@ -86,14 +83,6 @@ This dashboard helps businesses:
 - **Units Sold**
 - **Total Products**
 
----
-
-# 📷 **Dashboard Preview**
-
-![Sales Dashboard](dashboard.png)
-
----
-
 # 📈 **Business Insights Generated**
 
 ✅ **Technology category** generated the highest sales revenue  
@@ -102,8 +91,6 @@ This dashboard helps businesses:
 ✅ Sales growth increased significantly during **year-end months**  
 ✅ Profit trends showed strong business performance in **Q4**  
 ✅ **West region** contributed major sales performance  
-
-
 
 # 🧹 **Data Cleaning & Preparation**
 
@@ -114,8 +101,6 @@ The dataset was cleaned and transformed before visualization:
 ✔ Standardized **data formats**  
 ✔ Corrected **inconsistent entries**  
 ✔ Structured raw data for **dashboard analysis**
-
-
 
 # 💡 **Skills Demonstrated**
 
@@ -128,18 +113,12 @@ The dataset was cleaned and transformed before visualization:
 ✔ **KPI Analysis**  
 ✔ **Storytelling with Data**
 
-
-
 # 📂 **Project Structure**
 
-```bash
 ├── Dataset
 ├── Dashboard File
 ├── dashboard.png
 ├── README.md
-
-
-
 
 
 # 🔥 **Why This Project Matters**
@@ -162,8 +141,9 @@ This project demonstrates how **Data Visualization & Analytics** can:
 
 # 👩‍💻 **Author**
 
-## **Tapasya Jadhav**
-**Electronics & Computer Engineering Student**  
+ **Tapasya Jadhav**
+ 
+**Electronics & Computer Engineering Graduate**  
 Aspiring **Data Analyst** | Dashboard Enthusiast 🚀
 
 # 📬 **Connect With Me**
